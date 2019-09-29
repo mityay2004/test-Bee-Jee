@@ -5,8 +5,8 @@ MVC-framework for test
 used libraries:
 - https://github.com/nikic/FastRoute
 - https://github.com/Wixel/GUMP
-- https://medoo.in/api/query
-- https://platesphp.com/v3/simple-example/
+- https://github.com/catfan/Medoo
+- https://github.com/thephpleague/plates
 
 Live version: http://mityay.zzz.com.ua/
 
