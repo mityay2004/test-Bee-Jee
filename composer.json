@@ -1,0 +1,8 @@
+{
+    "require": {
+        "nikic/fast-route": "^1.3",
+        "wixel/gump": "^1.5",
+        "league/plates": "^3.3",
+        "catfan/medoo": "^1.7"
+    }
+}
